@@ -1,0 +1,8 @@
+D:\Other\mp3ToPCM\mp3ToPCM\bin\Debug\mp3ToPCM.exe.config
+D:\Other\mp3ToPCM\mp3ToPCM\obj\Debug\mp3ToPCM.csprojResolveAssemblyReference.cache
+D:\Other\mp3ToPCM\mp3ToPCM\bin\Debug\mp3ToPCM.exe
+D:\Other\mp3ToPCM\mp3ToPCM\bin\Debug\mp3ToPCM.pdb
+D:\Other\mp3ToPCM\mp3ToPCM\bin\Debug\NAudio.dll
+D:\Other\mp3ToPCM\mp3ToPCM\bin\Debug\NAudio.xml
+D:\Other\mp3ToPCM\mp3ToPCM\obj\Debug\mp3ToPCM.exe
+D:\Other\mp3ToPCM\mp3ToPCM\obj\Debug\mp3ToPCM.pdb
